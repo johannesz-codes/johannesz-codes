@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Johannes 👋
 
-<!--
-**johannesz-codes/johannesz-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build high-performance scientific software at the intersection of physics, machine learning, and HPC.
 
-Here are some ideas to get you started:
+## 🚀 About me
+- Physics + ML + HPC with a focus on **differentiable physics**
+- Contributor to PyTorch (linalg (eig, eigh), cuSOLVER glue)
+- Working on **RCWA-based optical simulations with autograd support**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current work
+- M.Sc. thesis @ Albert-Ludwigs-Universität Freiburg / Fraunhofer ISE
+- Focus: computational optics & optimization of photonic structures, experimenting with agentic AI
+- Preparing for PhD in computational physics / photovoltaics 
+
+## 🛠️ Tech stack
+- Python, PyTorch, CUDA
+- HPC (bwUniCluster, NEMO 2)
+- Scientific computing
+
+## 📌 Projects
+- **solwa** – differentiable RCWA library (PyTorch-based)
+- Experimental work on inverse design & optimization
+
+## 🎯 Interests
+- Differentiable simulation
+- GPU-accelerated scientific computing
+- Bridging physics models with modern ML workflows
+
+## 🤝 Let's connect
+- Open to collaborations in physics, ML, and scientific software
+- Find me on LinkedIN: https://www.linkedin.com/in/johannes-zeiser-895155162/
